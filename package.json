@@ -1,0 +1,26 @@
+{
+  "name": "react-full-stack-template",
+  "version": "1.0.0",
+  "description": "react full stack template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCeeeZy/react-full-stack-template.git"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "mongo"
+  ],
+  "author": "Paul Cwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCeeeZy/react-full-stack-template/issues"
+  },
+  "homepage": "https://github.com/PCeeeZy/react-full-stack-template#readme"
+}
